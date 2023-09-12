@@ -33,7 +33,7 @@ try:
         print('%s = %g' % (i.varName,i.x),end=' ')
 #错误归因(error attribution)
 except GurobiError as g:
-    print('Error code' + str(g.grrno) + ':' + str(g))
+    print('Error code' + ':' + str(g))
 except AttributeError:
     print('Encountered an attribute error')
 #Answer: x1 = 338/15  x2 = 116/5  x3 = 22/3 obj = 2029/15
