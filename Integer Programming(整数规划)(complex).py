@@ -1,7 +1,7 @@
 # Author: Tingyi
 # CreatTime 2023/9/13
 # FileName: Integer Programming(整数规划)1
-# Description: simple praticises of Python
+# Description: simple praticises of Gurobi
 #Minimize
 #5(x1_1) + 4(x1_2) + 3(x1_3) + 2(x1_4) + (x1_5) + ...... + 5(x10_1) + 4(x10_2) + 3(x10_3) + 2(x10_4) + (x10_5)
 #Subject to
