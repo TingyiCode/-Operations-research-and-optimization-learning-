@@ -1,7 +1,7 @@
 # Author: Tingyi
 # CreatTime 2023/9/11
 # FileName: Linear Programming(线性规划)
-# Description: simple praticises
+# Description: simple praticises of Gurobi
 #Maximize
 # 3 * (x1) + 2 * (x2) + 2.9 * (x3)
 # Subject To
