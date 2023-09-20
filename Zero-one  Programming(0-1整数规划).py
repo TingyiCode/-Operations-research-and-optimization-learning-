@@ -1,7 +1,7 @@
 # Author: Tingyi
 # CreatTime 2023/9/11
 # FileName: Interger Programming(整数规划)
-# Description: simple praticises
+# Description: simple praticises of Gurobi
 #Minimize
 # 2 * (x1) + 5 * (x2) + 3 * (x3) + 4 * (x4)
 # Subject To
